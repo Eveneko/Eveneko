@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eveneko&layout=compact)](https://github.com/Eveneko)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eveneko&repo=SUSTech-Courses)](https://github.com/Eveneko/SUSTech-Courses)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eveneko&repo=SUSTech-Courses)](https://github.com/Eveneko/SUSTech-Courses) -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eveneko&repo=Dish)](https://github.com/Eveneko/Dish) -->
 
 
