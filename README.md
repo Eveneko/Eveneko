@@ -1,4 +1,10 @@
-### Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eveneko&count_private=true&show_icons=true)](https://github.com/Eveneko)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eveneko&layout=compact)](https://github.com/Eveneko)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eveneko&repo=SUSTech-Courses)](https://github.com/Eveneko/SUSTech-Courses)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eveneko&repo=Dish)](https://github.com/Eveneko/Dish) -->
+
 
 <!--
 **Eveneko/Eveneko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
